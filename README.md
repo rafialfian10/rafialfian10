@@ -4,11 +4,11 @@
 Skills: HTML / CSS / Bootstrap 5 / JavaScript / ReactJS / Nodejs / PHP / Go / MySQL / PostgreSQL
 
 - 🌱 I’m currently learning React JS, and Go 
-- 📫 How to reach me: https://asidikrdn.my.id 
+- 📫 How to reach me: https://portofolio-rafialfian10.netlify.app
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafialfian10)](https://github.com/rafialfian10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asidikrdn&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafialfian10&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafialfian10)  
 
