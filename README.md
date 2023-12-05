@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rafi Alfian
 #### I am a passionate FullStack Web Developer from Jepara, Indonesia
 
-Skills: HTML / CSS / Bootstrap 5 / Tailwind / JavaScript / TypeScript / React Native / ReactJS / NextJS / PHP / Go / MySQL / PostgreSQL
+Skills: HTML / CSS / Bootstrap 5 / Tailwind / JavaScript / TypeScript / React Native / ReactJS / NextJS / PHP / Laravel / Zend / Go / MySQL
 
 - 📫 How to reach me: https://portofolio-rafialfian10.netlify.app
 
