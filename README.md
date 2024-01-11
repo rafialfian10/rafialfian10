@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafialfian10&label=Profile%20views&color=0e75b6&style=flat" alt="rafialfian10" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://portofolio-rafialfian10.netlify.app](https://portofolio-rafialfian10.netlify.app)
 
 - 💬 Ask me about **HTML5 / CSS / Bootstrap / SASS / Tailwind / JavaScript / TypeScript / React Native / ReactJS / NextJS / Go / PHP / Laravel / Zend / SQL**
