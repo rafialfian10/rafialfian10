@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portofolio-rafialfian10.netlify.app](https://portofolio-rafialfian10.netlify.app)
 
-- 💬 Ask me about **HTML5 / CSS / Bootstrap / SASS / Tailwind / JavaScript / TypeScript / React Native / ReactJS / NextJS / Go / PHP / Laravel / Zend / SQL**
+- 💬 Ask me about **HTML5 / CSS / Bootstrap / SASS / Tailwind / JavaScript / TypeScript / React Native / ReactJS / NextJS / Go / PHP / Laravel / SQL**
 
 - 📫 How to reach me **rafialfian770@gmail.com**
 
